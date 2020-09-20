@@ -16,7 +16,7 @@ This is meant to be used as a common dependency for all projects in the
 * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 (WSL 2) (with [Ubuntu](https://ubuntu.com/wsl))
 
-## <a name="setting-up">Setting Up</a>
+## Setting Up
 
 ### Ubuntu, WSL 2
 
